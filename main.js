@@ -15,9 +15,9 @@
 
     // === logo change
     if (ud_header.classList.contains("sticky")) {
-      logo.src = "assets/images/logo/shelbyLogoNavTransparent.png";
+      logo.src = "images/logo/shelbyLogoNavTransparent.png";
     } else {
-      logo.src = "assets/images/logo/shelbyLogo.png";
+      logo.src = "images/logo/shelbyLogo.png";
     }
 
     // show or hide the back-top-top button
